@@ -182,7 +182,7 @@ Rigidbody2D:
   m_Interpolate: 1
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &3206569035964686525
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -243,4 +243,4 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 4c20b29ae52909d4e9a8245616b7fddb, type: 2}
+    - {fileID: 11400000, guid: a5f759f74ee65714c9c5f5c1fb7db3ee, type: 2}
