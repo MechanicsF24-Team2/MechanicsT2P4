@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3457644401116724820}
   - component: {fileID: 1877017201139355241}
   - component: {fileID: 6353532140943121950}
+  - component: {fileID: 80588992512633017}
   m_Layer: 0
   m_Name: MouseHole
   m_TagString: Untagged
@@ -153,3 +154,15 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 41b09736e88f2114da6d4b5f29a1e9ce, type: 2}
+--- !u!114 &80588992512633017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7587520907177666246}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da57800110fd423681b87299d829e80b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
