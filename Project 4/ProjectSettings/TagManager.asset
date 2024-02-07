@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Platform
   - ItemPlatform
+  - Cheese
+  - Trap
   layers:
   - Default
   - TransparentFX
