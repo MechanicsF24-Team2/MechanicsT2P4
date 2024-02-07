@@ -13,12 +13,12 @@ GameObject:
   - component: {fileID: 2775464618721940001}
   - component: {fileID: 8541208370035433617}
   m_Layer: 0
-  m_Name: trap
+  m_Name: Trap
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &968917954446290086
 Transform:
   m_ObjectHideFlags: 0
