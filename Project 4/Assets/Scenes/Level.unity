@@ -398,6 +398,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3894778989453021913, guid: d572124492173c5488ed10ebd3f00495, type: 3}
+      propertyPath: m_text
+      value: 'Quota:'
+      objectReference: {fileID: 0}
     - target: {fileID: 5349341084031535176, guid: d572124492173c5488ed10ebd3f00495, type: 3}
       propertyPath: m_Name
       value: HUD UI
